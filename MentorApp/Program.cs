@@ -8,11 +8,13 @@ namespace MentorApp
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var config = builder.Configuration;
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<MentorAppDbContext>(options =>
-                options.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=MentorApp;Trusted_Connection=True;TrustServerCertificate=True;"));
+            //options.UseSqlServer(config.GetSection("ConnectionStrings:DefaultConnection").Value));
+            options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 
