@@ -131,10 +131,10 @@ C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\staticwebassets.build
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\EternaApp.csproj.Up2Date
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\EternaApp.dll
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\refint\EternaApp.dll
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\EternaApp.pdb
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\EternaApp.genruntimeconfig.cache
 C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\ref\EternaApp.dll
+C:\Users\user\Desktop\MentorApp\EternaApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
