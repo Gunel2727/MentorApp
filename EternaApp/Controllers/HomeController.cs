@@ -13,7 +13,8 @@ namespace EternaApp.Controllers
         {
             HomeVm homeVm = new HomeVm
             {
-                Sliders = eternaDbContext.Sliders.ToList()
+                Sliders = eternaDbContext.Sliders.ToList(),
+                Featureds=eternaDbContext.Featureds.ToList()
             };
             return View(homeVm);
         }

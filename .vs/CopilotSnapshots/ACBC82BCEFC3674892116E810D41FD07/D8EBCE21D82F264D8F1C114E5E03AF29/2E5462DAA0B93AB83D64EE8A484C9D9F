@@ -1,0 +1,20 @@
+﻿using EternaApp.Data;
+using EternaApp.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace EternaApp.Controllers
+{
+    public class PortfolioController(EternaDbContext _context) : Controller
+    {
+        public IActionResult Index()
+        {
+            ProductVm productVm = new ProductVm
+            {
+                Categories = _context.Categories.ToList(),
+                Products = _context.Products.Include(p => p.ProductImages).Include(p => p.Category).ToList()
+            };
+            return View(productVm);
+        }
+    }
+}
