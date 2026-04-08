@@ -26,7 +26,6 @@ C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.build
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\MentorApp.dll
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\refint\MentorApp.dll
 C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\MentorApp.pdb
@@ -279,3 +278,4 @@ C:\Users\gunelemu\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\MentorApp.pdb
 C:\Users\gunelemu\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\MentorApp.genruntimeconfig.cache
 C:\Users\gunelemu\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\ref\MentorApp.dll
 C:\Users\gunelemu\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\MentorApp\MentorApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

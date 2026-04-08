@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\mentorapp\\mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -48,10 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,16 +106,8 @@
       "RelativeMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|c:\\users\\user\\desktop\\mentorapp\\eternaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9CF9090B-EF95-4CFF-B91D-F73AFD44F29F}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\mentorapp\\mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\mentorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82A2EA42-5E01-4A65-B1FE-FCCD384B4B91}|MentorApp\\MentorApp.csproj|c:\\users\\user\\desktop\\mentorapp\\mentorapp\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -177,19 +177,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Portfolio\\Detail.cshtml",
-              "RelativeDocumentMoniker": "EternaApp\\Views\\Portfolio\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Portfolio\\Detail.cshtml",
-              "RelativeToolTip": "EternaApp\\Views\\Portfolio\\Detail.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-06T16:06:12.487Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Program.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Program.cs",
+              "RelativeToolTip": "EternaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:49:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EternaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\EternaApp.csproj",
+              "RelativeDocumentMoniker": "EternaApp\\EternaApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\EternaApp.csproj",
+              "RelativeToolTip": "EternaApp\\EternaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T17:48:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MentorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\MentorApp.csproj",
+              "RelativeDocumentMoniker": "MentorApp\\MentorApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\MentorApp.csproj",
+              "RelativeToolTip": "MentorApp\\MentorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T09:47:33.369Z",
               "EditorCaption": ""
             },
             {
@@ -200,20 +225,45 @@
               "RelativeDocumentMoniker": "EternaApp\\Views\\Portfolio\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Portfolio\\Index.cshtml",
               "RelativeToolTip": "EternaApp\\Views\\Portfolio\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-04T21:18:42.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "EternaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Data\\EternaDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeToolTip": "EternaApp\\Data\\EternaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:48:01.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T18:42:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "EternaApp\\Controllers\\PortfolioController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "EternaApp\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T21:18:14.031Z",
               "EditorCaption": ""
@@ -221,6 +271,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EternaApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\appsettings.Development.json",
+              "RelativeToolTip": "EternaApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T17:56:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EternaApp\\Controllers\\HomeController.cs",
@@ -232,20 +294,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EternaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Data\\EternaDbContext.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Data\\EternaDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Data\\EternaDbContext.cs",
-              "RelativeToolTip": "EternaApp\\Data\\EternaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T17:48:01.423Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Portfolio\\Detail.cshtml",
+              "RelativeDocumentMoniker": "EternaApp\\Views\\Portfolio\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Portfolio\\Detail.cshtml",
+              "RelativeToolTip": "EternaApp\\Views\\Portfolio\\Detail.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T16:06:12.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ProductVm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\ViewModels\\ProductVm.cs",
               "RelativeDocumentMoniker": "EternaApp\\ViewModels\\ProductVm.cs",
@@ -253,12 +314,11 @@
               "RelativeToolTip": "EternaApp\\ViewModels\\ProductVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T21:34:56.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T21:34:56.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Product.cs",
@@ -266,36 +326,11 @@
               "RelativeToolTip": "EternaApp\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T20:51:22.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T20:51:22.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Program.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Program.cs",
-              "RelativeToolTip": "EternaApp\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T17:49:39.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "EternaApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\appsettings.Development.json",
-              "RelativeToolTip": "EternaApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T17:56:50.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EternaApp\\Views\\Shared\\_Layout.cshtml",
@@ -307,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "dbo.ProductImages.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.ProductImages.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.ProductImages.sql",
@@ -316,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\ProductImage.cs",
@@ -328,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "HomeVm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\ViewModels\\HomeVm.cs",
               "RelativeDocumentMoniker": "EternaApp\\ViewModels\\HomeVm.cs",
@@ -340,28 +375,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EternaApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EternaApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T18:42:38.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "dbo.Products [Data]",
+              "DocumentIndex": 16,
+              "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Products.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-04-04T21:23:02.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "dbo.Categories.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Categories.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Categories.sql",
@@ -370,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Models\\Categories.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Categories.cs",
@@ -382,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "dbo.Featureds.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Featureds.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Featureds.sql",
@@ -391,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "dbo.Sliders.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Sliders.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/EternaApp/True/SqlTable/dbo.Sliders.sql",
@@ -400,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Featured.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Models\\Featured.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Featured.cs",
@@ -412,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Slider.cs",
@@ -424,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MentorApp\\appsettings.Development.json",
@@ -436,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MentorApp\\Views\\Shared\\_Layout.cshtml",
@@ -448,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MentorApp\\Controllers\\HomeController.cs",
@@ -460,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\Program.cs",
               "RelativeDocumentMoniker": "MentorApp\\Program.cs",
@@ -472,19 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EternaApp.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\EternaApp.csproj",
-              "RelativeDocumentMoniker": "EternaApp\\EternaApp.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\EternaApp.csproj",
-              "RelativeToolTip": "EternaApp\\EternaApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-02T17:48:11.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\EternaApp\\appsettings.json",
               "RelativeDocumentMoniker": "EternaApp\\appsettings.json",
@@ -505,18 +516,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T07:27:47.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MentorApp.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\MentorApp.csproj",
-              "RelativeDocumentMoniker": "MentorApp\\MentorApp.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MentorApp\\MentorApp\\MentorApp.csproj",
-              "RelativeToolTip": "MentorApp\\MentorApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-29T09:47:33.369Z"
             },
             {
               "$type": "Document",
